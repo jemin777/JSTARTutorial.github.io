@@ -1,0 +1,21 @@
+# JSTARTutorial
+================
+
+Welcome to JSTAR Programming Language!
+
+JSTAR Programming Language is focused on research ,Datastuctures, obfuscation, and compiler design is Developed by wilmix jemin j.
+
+
+Definition
+===========
+
+ JSTAR(J*) is defined as a remote web server used for publishing webapplication focused on webdesign , website construction ,etc. 
+ 
+ JSTAR(J*) is a Programming Language which is focused on Remote webapplication in the areas of webdesign, websites construction,
+ Good Security towards Webpage ,and which is invented in java and C#.
+ JSTAR(J*) is used in Remotewebapplication webdesign invented by wilmix jemin j in java and C#.
+
+
+Kindly  see   the  Given below   url  for   more  details   about  JSTAR Tutorial....
+
+url:
