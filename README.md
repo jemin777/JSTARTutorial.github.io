@@ -3,8 +3,8 @@
 
 Welcome to JSTAR Programming Language!
 
-JSTAR Programming Language is focused on research ,Datastuctures, obfuscation, and compiler design is Developed by wilmix jemin j.
-
+JSTAR(J*) is a Programming Language which is focused on Remote webapplication in the areas of webdesign, websites construction,
+ Good Security towards Webpage ,and which is invented in java and C#.
 
 Definition
 ===========
