@@ -24,7 +24,7 @@ url: https://jemin777.github.io/JSTARTutorial.github.io/HOME
 Note:
 ======
 
-To  work   mostly   with  Jstar   Programming   languages  
+To  Configure   Jstar   Programming   language  servers  user  should... 
 
 Kindly  download   https://github.com/jemin777/WilmixTutorial/blob/master/jstarlib.rar
 
