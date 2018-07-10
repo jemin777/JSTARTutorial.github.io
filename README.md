@@ -19,3 +19,13 @@ Definition
 Kindly  see   the  Given below   url  for   more  details   about  JSTAR Tutorial....
 
 url: https://jemin777.github.io/JSTARTutorial.github.io/HOME
+
+
+Note:
+======
+
+To  work   mostly   with  Jstar   Programming   languages  
+
+Kindly  download   https://github.com/jemin777/WilmixTutorial/blob/master/jstarlib.rar
+
+and   replace/copy     cdollartools.dll  and  jstartools.dll   at  jstar/src/lib  directory   and  jstar/src  directory..
